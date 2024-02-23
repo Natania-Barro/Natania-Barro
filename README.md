@@ -1,14 +1,8 @@
 - 👋 Hi, I’m Tatiana
 - 👀 I’m interested in testing, traveling, bachata/kizomba dancing
-- 🌱 At the moment, I am looking for a project in which I can immerse myself 100%, participate with the team in the testing process, learn new things from more experienced colleagues and become another professional in the team.
-While studying at Yandex Practicum, I realized that testing is a difficult but interesting profession that allows the brain to be on the move all the time, explore new directions in testing and develop into a Fullstack specialist. I continue to develop in this direction, I am learning the Java language to study automation and I am ready for a large flow of new information.
-Hard skills:
-- manual testing of web applications using DevTools, Charles and mobile applications on real devices and through emulators;
-- working with the API via Postman; SQL database:
-- preparation of test and project documentation;
-- I understand how the client-server architecture works
-- The web/mobile testing and UX/UI design courses I have completed help me test design layouts and prototypes in Figma.
-As part of the team (of 3 people), Yandex became the winner of the Bagaton - July 2023. The jury noted the most complete and accurate checks of the main section of the application that I carried out, bug reports were compiled qualitatively and informatively, noted that they did not see several significant errors themselves and approved my suggestions for improving the functionality.
+- 🌱 I have experience testing a web platform and a mobile application, compiling software requirements and developing test documentation, testing new functionality and monitoring bug fixes, and worked as the only tester in a small development team. I am currently taking a course on testing automation in java 
+I have a diploma from Yandex Workshop in the field of Software testing Engineer, as part of a team of three people I was a prize-winner (1st place) in the Bagaton-July 2023 from Yandex (competitions for testers similar to the Hackathon), I actively participated in testing pet projects starting from the idea stage, since I have an education in UX/UI design web and mobile applications (but I decided not to develop further in design, since this is not my thing).
+I want to become a part of a professional team of testers.
 - 💞️ I’m looking to collaborate on with people who, like me, want not to stand still, but to grow and develop, to learn new things
 - 📫 How to reach me telegram @Natania_Barro
 - 😄 My motto is: only the walking one can master the road
